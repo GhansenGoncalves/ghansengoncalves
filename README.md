@@ -1,30 +1,30 @@
-### Olá, sou o Guilherme 👋
+### Guilherme Hansen Gonçalves
 
 Analista de Testes (QA) com mais de 2 anos de experiência em projetos
 corporativos e governamentais, atuando com testes manuais, exploratórios,
 regressão e automação com Cypress e Playwright.
 
-📍 Atualmente na Engesoftware · 📚 Estudante de Ciência da Computação ·
-🎯 Em evolução para QA Pleno · 📖 Em preparação para a certificação ISTQB CTFL 4.0
+Atualmente na Engesoftware · Estudante de Ciência da Computação ·
+Em preparação para a certificação ISTQB CTFL 4.0
 
 ---
 
-### ⭐ Projeto em destaque
+### Projeto em destaque
 
-**[🍰 Bolos da Bru](https://github.com/ghansengoncalves/bolos-da-bru)** —
+**[Bolos da Bru](https://github.com/ghansengoncalves/bolos-da-bru)** —
 sistema de vendas de bolo no pote em produção real: dashboard com
 indicadores e gráficos, vendas de balcão/delivery/encomenda, loja on-line
-para o cliente, promoções automáticas e dicas geradas dos dados — com suíte
-de **testes E2E em Playwright rodando em CI** a cada push.
+para o cliente, promoções automáticas e dicas geradas dos dados, com suíte
+de testes E2E em Playwright rodando em CI a cada push.
 
 [![Dashboard do Bolos da Bru](https://raw.githubusercontent.com/ghansengoncalves/bolos-da-bru/main/docs/screenshots/dashboard.png)](https://github.com/ghansengoncalves/bolos-da-bru)
 
-→ [Ver no ar](https://ghansengoncalves.github.io/bolos-da-bru/) ·
+[Ver no ar](https://ghansengoncalves.github.io/bolos-da-bru/) ·
 [Ver o código e como rodar](https://github.com/ghansengoncalves/bolos-da-bru)
 
 ---
 
-### 📂 Outros projetos de portfólio
+### Outros projetos de portfólio
 
 | Repositório | Conteúdo |
 |---|---|
@@ -35,7 +35,7 @@ de **testes E2E em Playwright rodando em CI** a cada push.
 
 ---
 
-### 🔧 Habilidades
+### Habilidades
 
 - Testes funcionais, regressão e exploratórios
 - Criação de casos de teste e planos de teste
@@ -47,7 +47,7 @@ de **testes E2E em Playwright rodando em CI** a cada push.
 
 ---
 
-### 📫 Contato
+### Contato
 
 - LinkedIn: [guilherme-hansen-goncalves](https://www.linkedin.com/in/guilherme-hansen-goncalves/)
 - Email: ghansengoncalves@gmail.com
