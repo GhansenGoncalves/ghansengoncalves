@@ -1,0 +1,33 @@
+{
+  "projeto": "Liga Enge",
+  "origem": "Capturas reais da aplicação local, com massas de teste",
+  "branch": "develop",
+  "commit_aplicacao": "97c10300c435827c3fa53d0f60e490d020e0d461",
+  "data_captura": "2026-10-18",
+  "apresentacao": "Cenários fictícios prontos; sem alteração de partidas",
+  "largura": 1400,
+  "altura": 754,
+  "duracao_ms": 20000,
+  "cenas": [
+    {
+      "titulo": "Visão geral",
+      "descricao": "Uma plataforma para organizar a participação nos Happy Hours."
+    },
+    {
+      "titulo": "Chaveamento",
+      "descricao": "Campeonato fictício de Truco, com oito duplas e duas chaves."
+    },
+    {
+      "titulo": "Detalhes da final",
+      "descricao": "Participantes e origem dos classificados em uma final MD5."
+    },
+    {
+      "titulo": "Homologação",
+      "descricao": "Exemplo pronto de um resultado que aguarda confirmação."
+    },
+    {
+      "titulo": "Regras de negócio",
+      "descricao": "Critérios de participação, experiência e pontuação no próprio produto."
+    }
+  ]
+}

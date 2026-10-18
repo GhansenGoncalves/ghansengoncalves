@@ -4,18 +4,45 @@ Sou **QA júnior na Engesoftware, com mais de 3 anos de experiência** em sistem
 
 [LinkedIn](https://www.linkedin.com/in/guilherme-hansen-goncalves/) · [E-mail](mailto:ghansengoncalves@gmail.com)
 
-### Automação em destaque: PNUD
+### Projeto em destaque: Liga Enge
+
+Conduzo o **desenvolvimento de ponta a ponta da Liga Enge com apoio de IA**, desde os requisitos e as regras de negócio até a implementação, a lógica de testes, a validação manual e a evolução do produto.
+
+A plataforma organiza os Happy Hours da Engesoftware com inscrições, partidas, campeonatos, resultados e rankings de **Truco, Dominó e UNO**.
+
+![Tour da Liga Enge: visão geral, chaveamento, detalhes da final, resultado pendente de homologação e regras.](assets/liga-enge-demo.gif)
+
+*Capturas reais da aplicação local na branch develop, com dados de teste. Os campeonatos da área Apresentação são cenários fictícios prontos; a sequência não representa uma competição real nem um relatório de execução de testes.*
+
+[Ver imagem estática](assets/liga-enge-demo.png) · [Referência do projeto — repositório privado](https://github.com/GhansenGoncalves/liga-enge/tree/develop)
+
+<details>
+<summary>Minha atuação no ciclo de desenvolvimento</summary>
+
+- **Requisitos:** definição e revisão de HUs, regras de negócio, mensagens e critérios de aceite.
+- **Implementação:** desenvolvimento das interfaces, da API e da persistência, com apoio de IA e revisão das entregas.
+- **Lógica de negócio:** inscrições, permissões por perfil, chaveamento, placares, homologação, contestação e pontuação.
+- **Qualidade:** definição da lógica de testes, cenários positivos e negativos e validação manual dos fluxos.
+- **Evolução:** identificação e correção de problemas de comportamento e usabilidade e organização das alterações no GitHub.
+
+**Tecnologias do projeto:** TypeScript, React, Node.js, Express e PostgreSQL. A IA integra o processo de desenvolvimento; eu direciono as funcionalidades e avalio as entregas e o funcionamento do produto.
+
+O sistema está em desenvolvimento e utiliza massas de teste. O código permanece privado.
+
+</details>
+
+### Automação com Cypress: PNUD
 
 Automatizei etapas do cadastro de **Produto Técnico Equivalente com Cypress e JavaScript**: navegação, preenchimento de campos, consultas e verificações da interface.
+
+<details>
+<summary>Ver script animado e minha contribuição na automação</summary>
 
 ![Demonstração do trecho Cypress PNUD em um editor inspirado no Visual Studio Code, com código destacado e terminal ilustrativo.](assets/pnud-fluxo-cypress.gif)
 
 *Animação com visual inspirado no Visual Studio Code e trecho adaptado do script implementado. Os dados são fictícios e o terminal é ilustrativo; não se trata de uma gravação de execução nem de um resultado de teste.*
 
 [Ver imagem estática](assets/pnud-fluxo-cypress.png)
-
-<details>
-<summary>Minha contribuição na automação</summary>
 
 - Navegação até o formulário de cadastros.
 - Preenchimento de campos e interação com listas e janelas de confirmação.
@@ -36,7 +63,7 @@ Entregas selecionadas da minha atuação. Os exemplos resumem atividades reais e
 | **Terracap** | Requisitos e testes manuais | Especificação de requisitos e teste da anonimização de PDF. |
 | **Telebras** | Testes manuais | Validação de acessibilidade de tabelas, navegação por teclado, formulários e relatórios. |
 | **SEFAZ-CE** | Regras de negócio e testes manuais | Teste da validação de férias no cadastro de ocorrências de afastamento do SGS. |
-| **Liga Enge** | IA, histórias de usuário e testes manuais | Direcionamento de funcionalidades, organização de HUs e validação de uma plataforma em desenvolvimento. |
+| **Liga Enge** | Desenvolvimento de ponta a ponta com IA e qualidade | Requisitos, regras de negócio, implementação, lógica de testes e validação manual. |
 
 <details>
 <summary>Requisitos e cenários de teste</summary>
@@ -50,17 +77,6 @@ Na Liga Enge, a documentação inclui histórias de usuário, regras de negócio
 > **Cenário:** dado que o participante já está inscrito, quando tenta uma segunda inscrição, então o sistema não cria outro registro e informa a duplicidade.
 
 Esse trecho representa um critério documentado; não é um relatório de execução de teste.
-
-</details>
-
-<details>
-<summary>Como aplico IA na Liga Enge</summary>
-
-A Liga Enge organiza inscrições, partidas, regras, resultados e rankings de Truco, Dominó e UNO nos eventos da empresa.
-
-O desenvolvimento utiliza IA como apoio à implementação e à organização técnica. Minha participação envolve direcionar o comportamento esperado, revisar as entregas, organizar HUs e conferir manualmente o funcionamento do sistema.
-
-As validações orientaram melhorias nas mensagens de sucesso e erro, nas confirmações em modal e na gestão de inscrições. O projeto está em desenvolvimento.
 
 </details>
 
