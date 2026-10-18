@@ -17,7 +17,7 @@ Automatizei etapas do cadastro de **Produto Técnico Equivalente com Cypress e J
 <details>
 <summary>Minha contribuição na automação</summary>
 
-- Navegação até o formulário de cadastro de Produto Técnico Equivalente.
+- Navegação até o formulário de cadastros.
 - Preenchimento de campos e interação com listas e janelas de confirmação.
 - Verificações de título, endereço e elementos apresentados na interface.
 - Interceptação de uma requisição para acompanhar uma etapa do fluxo.
@@ -32,8 +32,8 @@ Entregas selecionadas da minha atuação. Os exemplos resumem atividades reais e
 
 | Projeto | Minha atuação | Exemplo de entrega |
 | --- | --- | --- |
-| **PNUD** | Automação e testes funcionais | Automação de etapas do cadastro PTE com Cypress e JavaScript. |
-| **Terracap** | Requisitos e testes manuais | Especificação de requisitos e teste da anonimização de PDF no ANIA. |
+| **PNUD** | Automação e testes funcionais | Automação de etapas do cadastro com Cypress e JavaScript. |
+| **Terracap** | Requisitos e testes manuais | Especificação de requisitos e teste da anonimização de PDF. |
 | **Telebras** | Testes manuais | Validação de acessibilidade de tabelas, navegação por teclado, formulários e relatórios. |
 | **SEFAZ-CE** | Regras de negócio e testes manuais | Teste da validação de férias no cadastro de ocorrências de afastamento do SGS. |
 | **Liga Enge** | IA, histórias de usuário e testes manuais | Direcionamento de funcionalidades, organização de HUs e validação de uma plataforma em desenvolvimento. |
