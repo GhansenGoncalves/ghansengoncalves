@@ -1,0 +1,10 @@
+{
+  "name": "guilherme-hansen-perfil",
+  "private": true,
+  "scripts": {
+    "check": "node --check scripts/check.mjs && node scripts/check.mjs"
+  },
+  "engines": {
+    "node": ">=24"
+  }
+}

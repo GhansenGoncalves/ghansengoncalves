@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="230" viewBox="0 0 1000 230" role="img" aria-labelledby="title desc">
+  <title id="title">Guilherme Hansen Gonçalves</title>
+  <desc id="desc">Qualidade na prática. Testes, requisitos e IA aplicada.</desc>
+  <rect width="1000" height="230" rx="12" fill="#123650"/>
+  <path d="M790 0v230M850 0v230M910 0v230M970 0v230M760 45h240M760 105h240M760 165h240" stroke="#224960" stroke-width="1"/>
+  <path d="M788 160h50v-55h60V55h65" fill="none" stroke="#73c9c4" stroke-width="4"/>
+  <circle cx="788" cy="160" r="7" fill="#73c9c4"/>
+  <circle cx="898" cy="105" r="7" fill="#73c9c4"/>
+  <circle cx="963" cy="55" r="7" fill="#73c9c4"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="46" y="63" font-size="23" fill="#b9d4e5">Guilherme Hansen Gonçalves</text>
+    <text x="43" y="127" font-size="48" font-weight="700" fill="#ffffff">Qualidade na prática.</text>
+    <text x="46" y="177" font-size="23" fill="#d0e2ed">Testes, requisitos e IA aplicada.</text>
+  </g>
+</svg>
